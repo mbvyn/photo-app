@@ -1,0 +1,18 @@
+[submodule "photo-app-api-users"]
+	path = photo-app-api-users
+	url = https://github.com/mbvyn/photo-app-api-users.git
+[submodule "photo-app-discovery-service"]
+	path = photo-app-discovery-service
+	url = https://github.com/mbvyn/photo-app-discovery-service.git
+[submodule "photo-app-api-gateway"]
+	path = photo-app-api-gateway
+	url = https://github.com/mbvyn/photo-app-api-gateway.git
+[submodule "photo-app-api-albums"]
+	path = photo-app-api-albums
+	url = https://github.com/mbvyn/photo-app-api-albums.git
+[submodule "photo-app-api-account-management"]
+	path = photo-app-api-account-management
+	url = https://github.com/mbvyn/photo-app-api-account-management.git
+[submodule "photo-app-api-config-server"]
+	path = photo-app-api-config-server
+	url = https://github.com/mbvyn/photo-app-api-config-server.git
